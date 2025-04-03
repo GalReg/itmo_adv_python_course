@@ -1,0 +1,13 @@
+[project]
+name = "python-advanced-course"
+version = "0.1.0"
+description = "My python advanced course homework"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.2.4",
+    "setuptools>=78.1.0",
+    "twine>=6.1.0",
+    "typing>=3.10.0.0",
+    "wheel>=0.45.1",
+]
